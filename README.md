@@ -36,13 +36,21 @@ So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social m
 
 # Check lists
 
-- ⬜️ _Cheap_ dopamine sources
+- ✅ _Cheap_ dopamine sources
 - ⬜️ Another very fun check list, love ☑ check lists 
 
 # FAQ
 
 1. Q: Can I share notes, thoughts and emotions about this book I read with my fellas on IG? A: That's non of my business! But wait, this kind of dopamine we getting isn't _cheap_ at all. Look how much time we spent on it, ⏳ is 💰. Sure take one
+
 2. Q: It 🧠 hearts, especially first 3 weeks! A: Have you tried 💪🏾 gym? Or quit 🚭 smoking? It hearts too. Most of all first 3 weeks. There is some kind of nice book about it. Anyway, reward will be significant
+
 3. Q: Isn't it a downshifting? A: Yes - You will work hard to get same amount of dopamine. A: No - Quality and pleasure of getting things done worth it
+
 4. Q: Why you doing this? A: I've done this before (it was great!) and doing it right now, A: Hope it would be useful for you.
 
+# Sources
+
+- [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk)
+
+- 
