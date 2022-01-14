@@ -57,7 +57,9 @@ The less fuel we waste on getting the same amount of please, the _cheaper_ dopam
 
 3. Q: Isn't it a downshifting? A: Yes - You will work hard to get same amount of dopamine. A: No - Quality and pleasure of getting things done worth it
 
-4. Q: Why you doing this? A: I've done this before (it was great!) and doing it right now, A: Hope it would be useful for you.
+4. Q: Why you doing this? A: I've done this before (it was great!) and doing it right now, A: Hope it would be useful for you
+
+5. Q: I'm apple geek with a burnout, can I do it fancy? A: Sure, [here](./useful-tips.md) are some tips for you
 
 # Sources
 
