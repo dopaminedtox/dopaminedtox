@@ -43,11 +43,13 @@ Here is the [template](./_cheap_dopamine_sources.md)
 
 - ⬜️ Notifications should be turned off 📵. Why and of course they will be exceptions
 
-- ⬜️ Do we have a plan? (Not for now)
+- ⬜️ Do we have a plan?
 
 Here is the [plan template](.)
 
 - ⬜️ Feedback channel - tg chat or github?
+
+Join [dopaminedtox](https://t.me/dopaminedtox)!
 
 - ⬜️ Lot of things I forgot
 
