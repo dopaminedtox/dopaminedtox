@@ -27,6 +27,16 @@ So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social m
 # To do
 
 - ⬜️ Define what _cheap_ dopamine is whatever
+
+```
+brain fuel
+---------- = dopamine price
+ pleasue
+```
+
+Every work we trying to do (or though we trying to think) consumes kinda "brain fuel" and gives us some pleasue.   
+The less fuel we waste on getting the same amount of please, the _cheaper_ dopamine is.
+
 - ⬜️ What exactly we are cutting out? (🤫 - basically, all)
 - ⬜️ Notifications should be turned off 📵. Why and of course they will be exceptions
 - ⬜️ Do we have a plan? (Not for now)
@@ -53,4 +63,7 @@ So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social m
 
 - [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk)
 
-- 
+- [Maxim Dorofeev](mnogosdelal.ru) and his "Jedi technics"
+
+- ["We need to stay aware of the Instant Gratification Monkey"](https://www.youtube.com/watch?v=arj7oStGLkU)  (c) Tim Urban
+
