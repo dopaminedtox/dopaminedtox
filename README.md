@@ -38,9 +38,17 @@ Every work we trying to do (or though we trying to think) consumes kinda "brain 
 The less fuel we waste on getting the same amount of please, the _cheaper_ dopamine is.
 
 - ⬜️ What exactly we are cutting out? (🤫 - basically, all)
+
+Here is the [template](./_cheap_dopamine_sources.md)
+
 - ⬜️ Notifications should be turned off 📵. Why and of course they will be exceptions
+
 - ⬜️ Do we have a plan? (Not for now)
+
+Here is the [plan template](.)
+
 - ⬜️ Feedback channel - tg chat or github?
+
 - ⬜️ Lot of things I forgot
 
 
@@ -58,7 +66,6 @@ The less fuel we waste on getting the same amount of please, the _cheaper_ dopam
 3. Q: Isn't it a downshifting? A: Yes - You will work hard to get same amount of dopamine. A: No - Quality and pleasure of getting things done worth it
 
 4. Q: Why you doing this? A: I've done this before (it was great!) and doing it right now, A: Hope it would be useful for you
-
 5. Q: I'm apple geek with a burnout, can I do it fancy? A: Sure, [here](./useful-tips.md) are some tips for you
 
 # Sources
