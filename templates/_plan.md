@@ -23,3 +23,13 @@ For example, 9a.m. - 6p.m. with one hour lunch break
 - - ⬜️ Write down the whitelist of persons - family, friends, relatives and all the emergency contacts
 - - ⬜️ Write down apps whitelist - team communications apps, calendars (we're not gonna miss budget meeting, right?)
 - - ⬜️ Turn all the other notifications of (at least at your focus time)
+
+### Day 3 - How can I fill this void?
+
+Set up your goals for upcoming week, it might be
+
+- ⬜️ Read that book I wanted to
+- ⬜️ Plan your gym trainings for next month, have 2 real ones
+- ⬜️ Plan CCNP certification (with all the dates and resourses)
+- ⬜️ Visit dentist, get the treatment plan (dates, money)
+- ⬜️ Learn and get first touch on something completely new, like Azure SQL databases

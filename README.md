@@ -1,5 +1,9 @@
 Hi there 👋
 
+# TLDR
+
+[This plan](./templates/_plan.md) is being generated right now 
+
 # What is it for?
 
 So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social media. Meh, is it a problem at all? Try to get pleasure from reading a book or completing your work or personal project. Did it work out well? Good, you're lucky. It didn't? Well, at least you're not alone.
@@ -39,13 +43,13 @@ The less fuel we waste on getting the same amount of please, the _cheaper_ dopam
 
 - ⬜️ What exactly we are cutting out? (🤫 - basically, all)
 
-Here is the [template](./_cheap_dopamine_sources.md)
+Here is the [template](./templates/_cheap_dopamine_sources.md)
 
 - ⬜️ Notifications should be turned off 📵. Why and of course they will be exceptions
 
 - ⬜️ Do we have a plan?
 
-Here is the [plan template](.)
+Here is the [plan template](./templates/_plan.md)
 
 - ⬜️ Feedback channel - tg chat or github?
 
