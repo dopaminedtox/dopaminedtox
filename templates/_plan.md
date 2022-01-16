@@ -50,6 +50,8 @@ as for me, but of course it's up to you. Or at least good "near" circle is a sma
 Same question here - do I really need to talk right now or we could send a message each other and read it at more convenient time?
 
 
+## Day X - surprise! 😲
 
+To get the prise we need to do some hard job. But there is really nothing to do, actually, you'll see
 
 
