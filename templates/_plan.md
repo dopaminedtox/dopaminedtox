@@ -1,8 +1,6 @@
 # So what's the plan?
 
-## Week 1
-
-### Day 1 - know your enemy that kills your focus time
+## Day 1 - know your enemy that kills your focus time
 
 - ⬜️ Write down the list of your personal _cheap_ dopamine sources
 
@@ -16,7 +14,7 @@ First of all we need to cut out of any news, chit-chats, useless image and video
 
 For example, 9a.m. - 6p.m. with one hour lunch break
 
-### Day 2 - notifications are bad for your health
+## Day 2 - notifications are bad for your health
 
 - ⬜️ Set up (basically, turn off) notifications
 
@@ -24,7 +22,7 @@ For example, 9a.m. - 6p.m. with one hour lunch break
 - - ⬜️ Write down apps whitelist - team communications apps, calendars (we're not gonna miss budget meeting, right?)
 - - ⬜️ Turn all the other notifications of (at least at your focus time)
 
-### Day 3 - How can I fill this void?
+## Day 3 - How can I fill this void?
 
 Set up your goals for upcoming week, it might be
 
@@ -34,7 +32,7 @@ Set up your goals for upcoming week, it might be
 - ⬜️ Visit dentist, get the treatment plan (dates, money)
 - ✅ Learn and get first touch on something completely new, like Azure SQL databases
 
-### Day 4 - Speaking of exceptions
+## Day 4 - Speaking of exceptions
 
 Some communication channels might be vital for your business. Let sort them out:
 
