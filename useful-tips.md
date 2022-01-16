@@ -1,5 +1,7 @@
 # Some tips for Apple users
 
+- 👨🏽‍💻 New iOS 15 "Focus" feature helps to deal with notifications
+
 ## macOS
 
 ## iOS / iPadOS
