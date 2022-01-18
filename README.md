@@ -6,31 +6,39 @@ Hi there 👋
 
 # What is it for?
 
-So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social media. Meh, is it a problem at all? Try to get pleasure from reading a book or completing your work or personal project. Did it work out well? Good, you're lucky. It didn't? Well, at least you're not alone.
+So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social media. Is it a problem at all? Try to get pleasure from reading a book or completing your work or personal project. Did it work out well? Good, you're lucky. It didn't? Well, at least you're not alone.
 
 # Do I need it?
 
-- ✅ Wanna start reading books. Again. Because I like reading books
-- ✅ Completing projects is fun, I'm in
+## You do if:
+
+- ✅ You want to start reading books. Again. Because you like reading books
+- ✅ You forgot that completing projects is fun
 - ✅ Completing pet-projects fun too
-- ✅ I need to get certificated this quarter, but IG is so addictive
-- ✅ Deadlines are all about me, but man, have you heard how many kittens are dying daily because of those politicians?
-- ✅ Social media take too much time. I might've got a walk with my kids
-- ✅ I wanna be able to concentrate on one task for at least 30 minutes
-- ✅ All of those sounds boring. I'd better scroll youtube recommendations
+- ✅ Need to get certificated this quarter, but IG is so addictive
+- ✅ Deadlines are all about you, but "have you heard how many kittens are dying daily because of those politicians"?
+- ✅ Social media takes too much of your time. You might've got a walk with kids
+- ✅ You want to be able to concentrate on one task for at least 30 minutes
+- ✅ All of the above sounds boring. I'd better scroll youtube recommendations
+
+## Perhaps do not if:
+
 - 🤷🏼‍♂️ I'm not sure if this is a problem for me, I'm pretty good at completing tasks
-- ❎ Thanks, you know I'm something of a doctor myself
 
-# DoD
+## I (author) need your help if:
 
-- 😍 I've enjoyed last book I read. And I get some notes while reading
+- ❎ "Thanks, you know I'm something of a doctor myself"
+
+# Definitions of done
+
+- 😍 I've enjoyed last book. And I get some notes while reading
 - 🧐 CCNE non pen*s canis est
-- 👦🏼 Daddy, stop climbing this mountain, we've been heer last week! We'd better watch "Star Wars" again!
-- 👩🏻‍⚕️ Thanks, you know I'm something of a doctor myself
+- 👦🏼 Daddy, stop climbing this mountain, we've already been here! We'd better watch "Star Wars" again!
+- 👩🏻‍⚕️ "Thanks, you know I'm something of a doctor myself"
 
 # To do
 
-- ⬜️ Define what _cheap_ dopamine is whatever
+- ✅ Define what _cheap_ dopamine is
 
 ```
 brain fuel
@@ -38,10 +46,10 @@ brain fuel
  pleasue
 ```
 
-Every work we trying to do (or though we trying to think) consumes kinda "brain fuel" and gives us some pleasue.   
-The less fuel we waste on getting the same amount of please, the _cheaper_ dopamine is.
+Every work we are trying to do (or ideas we are trying to think on) consumes kinda "brain fuel" and gives us some pleasue.   
+The less fuel we waste on getting the same amount of pleasure, the _cheaper_ dopamine is.
 
-- ⬜️ What exactly we are cutting out? (🤫 - basically, all)
+- ⬜️ What exactly are we cutting out? (🤫 - basically, all)
 
 Here is the [template](./templates/_cheap_dopamine_sources.md)
 
@@ -55,24 +63,25 @@ Here is the [plan template](./templates/_plan.md)
 
 Join [dopaminedtox](https://t.me/dopaminedtox)!
 
-- ⬜️ Lot of things I forgot
+- ⬜️ Lot of other things
 
 
 # Check lists
 
 - ✅ _Cheap_ dopamine sources
-- ⬜️ Another very fun check list, love ☑ check lists 
+- ⬜️ Another very fun check list, love check lists 
 
 # FAQ
 
-1. Q: Can I share notes, thoughts and emotions about this book I read with my fellas on IG? A: That's non of my business! But wait, this kind of dopamine we getting isn't _cheap_ at all. Look how much time we spent on it, ⏳ is 💰. Sure take one
+1. Q: Can I share notes, thoughts and emotions about this book I read with my fellas on IG? A: That's none of my business! But wait, this kind of dopamine we are getting isn't _cheap_ at all. Look how much time we spent on it, ⏳ is 💰. Sure take one
 
-2. Q: It 🧠 hearts, especially first 3 weeks! A: Have you tried 💪🏾 gym? Or quit 🚭 smoking? It hearts too. Most of all first 3 weeks. There is some kind of nice book about it. Anyway, reward will be significant
+2. Q: It 🧠 hurts, especially first 3 weeks! A: Have you tried 💪🏾 gym? Or quit 🚭 smoking? It hurts too. Most of all first 3 weeks. There is some kind of nice book about it. Anyway, reward will be significant
 
-3. Q: Isn't it a downshifting? A: Yes - You will work hard to get same amount of dopamine. A: No - Quality and pleasure of getting things done worth it
+3. Q: Isn't it a downshifting? A: Yes - You will work hard to get same amount of dopamine. A: No - Quality and pleasure of getting things done are worth it
 
-4. Q: Why you doing this? A: I've done this before (it was great!) and doing it right now, A: Hope it would be useful for you
-5. Q: I'm apple geek with a burnout, can I do it fancy? A: Sure, [here](./useful-tips.md) are some tips for you
+4. Q: Why are you doing this? A: I've done this before (it was great!) and I am doing it right now, A: Hope it would be useful for you
+
+5. Q: I'm an apple geek with a burnout, can I do it fancy? A: Sure, [here](./useful-tips.md) are some tips for you
 
 # Sources
 
