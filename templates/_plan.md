@@ -49,6 +49,17 @@ like educational videos, some courses, "how to" guides. Previous profile traces 
 as for me, but of course it's up to you. Or at least good "near" circle is a small one.   
 Same question here - do I really need to talk right now or we could send a message each other and read it at more convenient time?
 
+## Day 5 - good sleep is a key to success
+
+A lot of words had been said on sleep quality and its amount. Most of them are true. That is why you need to:
+- keep tracking your sleep (use journal, reflex your condition every morning)
+- provide cosy environment (silence, windows shadowing etc.)
+- go to bed at the same time
+- maintain information purity an hour before bedtime (no displays!)
+
+You can get more info:
+- [Why We Sleep | Book by Matthew Walker](https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325)
+- [The surprising health benefits of dreaming | Ted talk by Mattew Walker](https://www.ted.com/talks/matt_walker_the_surprising_health_benefits_of_dreaming)
 
 ## Day X - surprise! 😲
 
