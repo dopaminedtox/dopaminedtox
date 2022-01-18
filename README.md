@@ -23,9 +23,9 @@ So what is the problem? Nowadays, we keep getting _cheap_ dopamine from social m
 
 ## Perhaps do not if:
 
-- 🤷🏼‍♂️ I'm not sure if this is a problem for me, I'm pretty good at completing tasks
+- 🤷🏼‍♂️ You're not sure if this is a problem at all, you're pretty good at completing tasks
 
-## I (author) need your help if:
+## I (the author) need your help if:
 
 - ❎ "Thanks, you know I'm something of a doctor myself"
 
