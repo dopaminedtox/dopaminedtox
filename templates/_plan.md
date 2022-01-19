@@ -76,6 +76,8 @@ There are tons of sources you can get information from, but keypoints are:
 - Enough fibre makes your bowel happy
 - Drink pure water more, drink other beverages less
 
+Nice idea to write down and follow food plan.
+
 ## Day 7 - something on addictive substances
 
 
