@@ -27,7 +27,7 @@ For example, 9a.m. - 6p.m. with one hour lunch break
 Set up your goals for upcoming week, it might be
 
 - ⬜️ Read book you wanted to
-- ⬜️ Plan your gym trainings for next month, have 2 real ones
+- ⬜️ Plan your gym trainings for next month, have 2 real ones this week
 - ⬜️ Plan CCNP certification (with all the dates and resourses)
 - ⬜️ Visit dentist, get the treatment plan (dates, money)
 - ✅ Learn and get first touch on something completely new, like Azure SQL databases
