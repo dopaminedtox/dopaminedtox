@@ -7,6 +7,8 @@
 - - Messengers' channels, chats or groups
 - - Youtube subscriptions
 - - Facebook, Instagram, Twitter and all the stuff
+- - Junk food
+- - Online pron
 
 First of all we need to cut out any news, chit-chats, useless image and video scrolling.
 
@@ -73,6 +75,10 @@ There are tons of sources you can get information from, but keypoints are:
 - Long chain carbohydrates should be foundation of every meal
 - Enough fibre makes your bowel happy
 - Drink pure water more, drink other beverages less
+
+## Day 7 - something on addictive substances
+
+
 
 
 ## Day X - surprise! 😲
