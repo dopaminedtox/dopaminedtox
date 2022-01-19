@@ -12,7 +12,7 @@ First of all we need to cut out any news, chit-chats, useless image and video sc
 
 - ⬜️ Know your focus time
 
-For example, 9a.m. - 6p.m. with one hour lunch break
+For example, 9a.m. - 6p.m. with one hour lunch break and 5-15 minute break every hour
 
 ## Day 2 - notifications are bad for your health
 
@@ -60,6 +60,20 @@ A lot of words had been said on sleep quality and its amount. Most of them are t
 You can get more info:
 - [Why We Sleep | Book by Matthew Walker](https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325)
 - [The surprising health benefits of dreaming | Ted talk by Mattew Walker](https://www.ted.com/talks/matt_walker_the_surprising_health_benefits_of_dreaming)
+
+## Day 6 - "eat to live, don't live to eat"
+
+Most of energy for our bodies comes from food. Quality and quantity of it affect all the aspects of physical and mental health. 
+
+There are tons of sources you can get information from, but keypoints are:
+
+- Avoid sweets (no sugar)
+- Avoid short chain carbohydrates especially when combining with fats
+- Eat less, but more often. Eat regular. Don't overeat
+- Long chain carbohydrates should be foundation of every meal
+- Enough fibre makes your bowel happy
+- Drink pure water more, drink other beverages less
+
 
 ## Day X - surprise! 😲
 
