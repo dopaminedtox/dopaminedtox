@@ -78,10 +78,13 @@ There are tons of sources you can get information from, but keypoints are:
 
 Nice idea to write down and follow food plan.
 
-## Day 7 - something on addictive substances
+## Day 7 - some thoughts on boose
 
+"Thanks god it's Friday!". Perhaps you think that it is a good idea to have some alcohol-containing beverages to celebrate the end of a productive work week, but wait a minute. 
 
+First of all lets recall what is this all about. We're cutting on _cheap_ dopamine to trick our brain  enjoying life and doing productive task. How does it fit with alcohol? It doesn't. One shot or beer gives your brain boost of dopamine that doesn't lasts long and you need to take more and more. At the same time, depression accrues…
 
+[What Alcohol Really Does to Your Brain](https://www.forbes.com/sites/daviddisalvo/2012/10/16/what-alcohol-really-does-to-your-brain/)
 
 ## Day X - surprise! 😲
 
